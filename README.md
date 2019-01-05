@@ -8,5 +8,5 @@ bestNumWorker = kernelNum (not the hyperthreading in INTEL CPU)
 ![](1.png)
 MP ver 1
 ![](3.png)
-MP ver 2
+MP ver 2 (slightly faster than ver1)
 ![](2.png)
